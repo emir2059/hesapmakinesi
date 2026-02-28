@@ -18,7 +18,7 @@ Bu proje, Visual Studio Code kullanılarak geliştirilmiş, modern arayüzlü bi
 
 ## 🚀 Canlı Önizleme
 Projeyi canlı olarak buradan görebilirsiniz:
-[HESAP MAKİNESİ LİNKİNİ BURAYA YAPIŞTIR]
+[file:///C:/Users/tkumb/OneDrive/Masa%C3%BCst%C3%BC/Microsoft%20Visual%20Code/index.html]
 
 ---
 *Bu proje eğitim amaçlı geliştirilmiştir.*
