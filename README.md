@@ -17,7 +17,7 @@ Bu proje, Visual Studio Code kullanılarak geliştirilmiş, modern arayüzlü bi
 
 ## 🚀 Canlı Önizleme
 Projeyi canlı olarak buradan görebilirsiniz:
-[https://github.com/emir2059/hesapmakinesi/tree/2bf3a2f64f66b12d8251d2e27e37ed3c9368c8ed/Microsoft%20Visual%20Code]
+[https://emir2059.github.io/hesapmakinesi/]
 
 ---
 *Bu proje eğitim amaçlı geliştirilmiştir.*
