@@ -1,4 +1,3 @@
-# hesapmakinesi
 # 🧮 Web Tabanlı Hesap Makinesi
 
 Bu proje, Visual Studio Code kullanılarak geliştirilmiş, modern arayüzlü bir hesap makinesidir.
